@@ -1,1 +1,2 @@
 # ToDo
+# Początek z kodowaniem
