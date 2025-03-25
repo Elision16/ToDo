@@ -1,0 +1,35 @@
+:root {
+    --gold: #f8cf78;
+    --yellowmud: #D9AD5BB2;
+    --darkbrown: #1d0d03b2;
+    --yellowgreen: #CECE84;
+    --lightgreen: #21633b;
+    --green: #193C28;
+    --darkgreen: #0E2618CC;
+}
+
+
+
+.container {
+    background-color: var(--green);
+    color: var(--yellowgreen);
+}
+
+.form-control {
+    background-color: var(--lightgreen);
+    color: var(--yellowgreen);
+}
+
+.form-check-input {
+    background-color: var(--yellowgreen);
+}
+
+.list-group-item {
+    background-color: var(--lightgreen);
+    color: var(--yellowgreen);
+}
+
+.btn {
+    background-color: var(--yellowgreen);
+    color: var(--green);
+}
